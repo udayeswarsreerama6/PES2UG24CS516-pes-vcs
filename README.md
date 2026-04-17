@@ -313,13 +313,13 @@ This project demonstrates:
 
 ## Author Information
 
-**Name:** Your Name  
-**SRN:** Your SRN
+**Name:** SREERAMA UDAYESWAR
+**SRN:** PES2UG24CS516
 
 Set author:
 
 ```bash
-export PES_AUTHOR="Your Name <Your SRN>"
+export PES_AUTHOR="SREERAMA UDAYESWAR <PES2UG24CS516>"
 ```
 
 ---
