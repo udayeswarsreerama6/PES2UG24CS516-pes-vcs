@@ -1,5 +1,5 @@
 // test_tree.c — Phase 2 test program
-//s
+//
 // Compile and run:
 //   make test_tree
 //   ./test_tree
